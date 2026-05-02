@@ -16,7 +16,7 @@ __**Corozon Clinic Walker Repair**__
 - Repaired a broken walker for Corozon Clinic by modifying the legs, adding new steel, and replacing old wheels to enable safety of patients using the walker
 
 __**TLens**__ - [Project's Documentation](https://github.com/arturo-j-martinez-ii/tlens)
-- Developed an open-source transcription device that doesn't require Wi-Fi or a cellular device for a deaf and visually impaired veteran and, eventually, anyone to use anywhere in the world
+- Developed an open-source transcription device that doesn't require Wi-Fi or a cellular device for a deaf and visually impaired veteran and anyone to use anywhere in the world
 
 __**Sensor Team**__ - [Project’s Documentation](https://github.com/qlplus-utsa/wearablesensor)
 - Created a device under $30 to measure and display user’s heartrate and average heartrate with over 95% accuracy
