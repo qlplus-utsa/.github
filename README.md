@@ -1,6 +1,9 @@
 # Quality of Life Plus at UT San Antonio
 
-Hi everyone! Below you will find a **list of all of Quality of Life Plus' projects** throughout the years! We hope these showcase the **capabilities of our organization** and the **potential each new project can bring!**
+Hi everyone! To benefit our community through the design and develop
+nt of assistive medical technologies. QL+ connects passionate, inventive students with opportunities to support our disabled community members. We work for a future in which anyone can live with the highest quality of life, regardless of medical limitations.
+
+Below you will find a **list of all of Quality of Life Plus' projects** throughout the years! We hope these showcase the **capabilities of our organization** and the **potential each new project can bring!**
 
 ---
 
