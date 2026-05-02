@@ -2,6 +2,8 @@
 
 Hi everyone! Below you will find a **list of all of Quality of Life Plus' projects** throughout the years! We hope these showcase the **capabilities of our organization** and the **potential each new project can bring!**
 
+---
+
 __**Thermal Heating Sleeve**__
 - Designed a comfortable and protective sleeve that keeps the lining around our Challenger's leg amputation warm while operating in an extremely cold environment
 
